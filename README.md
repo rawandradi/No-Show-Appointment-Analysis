@@ -84,7 +84,3 @@ This analysis highlights that SMS reminders alone may not significantly reduce n
 
 ## License
 This project is for educational purposes.
-
----
-
-Feel free to update this README with additional results or visualizations as your project develops!
